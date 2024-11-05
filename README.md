@@ -37,7 +37,10 @@ from the beginning.
 <p align="center">
   <img alt="Light" src="assets/demo/Снимок экрана 2024-11-04 173857.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assets/demo/screenshot-2.png" width="45%">
+<p align="center">
+  <img alt="Light" src="assets/demo/Снимок экрана 2024-11-05 113555.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="assets/demo/Снимок экрана 2024-11-05 113612.png" width="45%">
 </p>
 
 
