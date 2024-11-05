@@ -41,6 +41,13 @@ from the beginning.
   <img alt="Dark" src="assets/demo/Снимок экрана 2024-11-05 113612.png" width="45%">
 </p>
 
+## Showcase with some additions:
+First we play with a “computer”, but we can also change our name to “player” then our opponent will change. 
+The computer is a robot. 
+Any other name is player.
+<p align="center">
+  <img alt="Light" src="assets/demo/Снимок экрана 2024-11-04 173857.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
 
 ## Setup
 1. Install [devbox](https://www.jetify.com/devbox/docs/installing_devbox/)
