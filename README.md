@@ -46,7 +46,7 @@ First we play with a “computer”, but we can also change our name to “playe
 The computer is a robot. 
 Any other name is player.
 <p align="center">
-  <img alt="Light" src="assets/demo/Снимок экрана 2024-11-04 173857.png" width="45%">
+  <img alt="Light" src="assets/demo/Снимок экрана 2024-11-05 115307.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 ## Setup
