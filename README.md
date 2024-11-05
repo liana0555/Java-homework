@@ -35,7 +35,7 @@ from the beginning.
 ## Showcase
 
 <p align="center">
-  <img alt="Light" src="assets/demo/screenshot-1.png" width="45%">
+  <img alt="Light" src="assets/demo/Снимок экрана 2024-11-04 173857.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="assets/demo/screenshot-2.png" width="45%">
 </p>
