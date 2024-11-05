@@ -1,10 +1,8 @@
 CardGame
 ============
 
+This is a card game(war of cards). It is a university homework assignment focused on teamwork and writing a fully functional game in Java and ~ Java binding to WebView ~ Swing.
 
-This is simple card game. It is a university homework focused on working in team and writing full-featured game in Java and ~~Java bindings to WebView~~ Swing.
-
-> If you are not our professor, or other student, you wont find anything useful here.
 ## Rules
 - The objective of the game is to win all of the cards.
 - The deck is divided evenly and randomly among the players, giving
@@ -26,11 +24,11 @@ from the beginning.
 - The game will continue until one player has collected all of the cards.
 
 ## Features
-- ~~Modern UI enchanced with animations~~
-- ~~Multiplayer~~
-- Crossplatform
-- ~~Several gamemodes~~
-- Save and load progress
+- ~ Modern UI enchanced with animations ~
+- ~ Multiplayer ~
+- ~ Crossplatform ~
+- ~ Several gamemodes ~
+- ~ Save and load progress ~
 
 ## Showcase
 
@@ -54,6 +52,4 @@ After you clone this repo to your desktop, go to its root directory and run `jus
 For other functionality run `just -l`
 
 ## License
-
-
 This project is licensed under the terms of the **MIT** license.
